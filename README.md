@@ -1,10 +1,23 @@
-# <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 
- I ❤️ Coding and  🏋️, 🎳, ✈️
+# I ❤️ Coding and  🏋️, 🎳, ✈️
 
-좋은 개발 문화를 배우고 전판하는 개발자가 되고싶은 이시형(LSH)입니다.
-
-- 📫 How to Reach me:
+#### 좋은 개발 문화를 배우고 전파하고 개발자가 되고싶은 이시형입니다.
 
 
-<https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHNAME)](https://github.com/anuraghazra/github-readme-stats)
+
+## 배우고 싶은 언어
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
+
+##  How to Reach me:   tlgud119@gamil.com ![]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftlgud119%2Fhit-counter&count_bg=%232F2F2F&title_bg=%2315E16A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+
+
