@@ -7,8 +7,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHNAME)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 배우고 싶은 언어
-![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 
 
