@@ -1,7 +1,7 @@
 
 # I ❤️ Coding and  🏋️, 🎳, ✈️
 
-#### 좋은 개발 문화를 배우고 전파하고 개발자가 되고싶은 이시형입니다.
+#### 좋은 개발 문화를 배우고 전파하고 싶은 이시형입니다.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHNAME)](https://github.com/anuraghazra/github-readme-stats)
