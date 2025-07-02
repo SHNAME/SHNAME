@@ -9,8 +9,8 @@
 
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/profile/tlgud119)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlgud119)](https://solved.ac/tlgud119)
+
 
 ## 배우고 싶은 언어
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
