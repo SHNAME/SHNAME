@@ -19,7 +19,7 @@
 
 
 
-##  How to Reach me:   tlgud119@gamil.com ![]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+##  How to Reach me:  ![]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) tlgud119@gamil.com 
 
 
 
