@@ -9,7 +9,8 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHNAME)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 ## 배우고 싶은 언어
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
