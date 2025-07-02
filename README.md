@@ -3,7 +3,8 @@
 
 #### 좋은 개발 문화를 배우고 전파하고 싶은 이시형입니다.
 
-![venom badge](https://capsule-render.vercel.app/api?type=venom&color=green&text=Hello,%20I'm%20Sihyeong&fontColor=ffffff)
+![venom badge](https://capsule-render.vercel.app/api?type=venom&color=linear-gradient(to%20right,%2300c851,%23007e33)&text=Hello,%20I'm%20Sihyeong&fontColor=ffffff&fontAlign=70&height=200&fontSize=40)
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHNAME)](https://github.com/anuraghazra/github-readme-stats)
