@@ -1,5 +1,5 @@
 
-# I ❤️ Coding and  🏋️, 🎳, ✈️
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF7BE&width=435&lines=Welcome+My+Git+Hub!)](https://git.io/typing-svg)
 
 
 ![venom green outline](https://capsule-render.vercel.app/api?type=venom&text=Hello,%20I%27m%20Sihyeong&fontColor=ffffff&stroke=000000&strokeWidth=1&animation=twinkling&color=0:00e676,100:2e7d32&height=240&fontSize=70)
