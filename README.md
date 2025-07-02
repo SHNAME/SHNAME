@@ -2,7 +2,8 @@
 # I ❤️ Coding and  🏋️, 🎳, ✈️
 
 #### 좋은 개발 문화를 배우고 전파하고 싶은 이시형입니다.
-![venom](https://capsule-render.vercel.app/api?type=venom&text=I%20am%20Venom.&fontColor=ffffff&animation=twinkling&color=0:000000,100:434343)
+![venom green](https://capsule-render.vercel.app/api?type=venom&text=Hello,%20I'm%20Sihyeong&fontColor=ffffff&animation=twinkling&color=0:00c853,100:007e33&height=220&fontSize=65)
+
 
 
 
