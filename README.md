@@ -10,7 +10,7 @@
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlgud119)](https://solved.ac/tlgud119)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=tlgud119&theme=cold)
+
 
 
 ## STACK
